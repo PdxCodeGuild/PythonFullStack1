@@ -1,7 +1,7 @@
 
 ## Using Git
 
-1. [Version Control](../docs/version-control.md)
+1. [Version Control](/Git/docs/version-control.md)
 1. [Basic Git](../docs/git-basic.md)
 1. [Commit Size](../docs/git-commit-size.md)
 1. Demo: [Basic Git](/demos/git-basic.md)
