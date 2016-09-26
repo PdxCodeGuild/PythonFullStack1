@@ -1,0 +1,45 @@
+## Interface Structure with HTML
+
+1. [Front-End Tools](/notes/frontend-tools.md)
+1. [HTML in Atom](/notes/atom-html.md)
+1. [Front-End Goals and Languages](/notes/frontend-goals-languages.md)
+1. [HTML Basics](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Introduction)
+1. HTML Style
+1. [Element Reference](https://developers.whatwg.org)
+1. [Semantic Elements](/notes/html-semantics.md)
+1. [Element Hierarchy](/notes/html-hierarchy.md)
+1. [URLs and Paths](/notes/urls-paths.md)
+1. [Web Inspector Structure Basics](http://ruby.bastardsbook.com/chapters/web-inspecting-html/)
+1. Demo: [Basic Elements](/demos/html-basic.md)
+1. Checked Practice: [Bio](/practice/bio.md)
+1. [Form Basics](http://learn.shayhowe.com/html-css/building-forms/)
+1. [Form Element Reference](/notes/html-form-elements.md)
+1. Demo: [Basic Forms](/demos/html-form.md)
+1. Checked Practice: [Food Preferences](/practice/food.md)
+
+## Styling and Layout with CSS
+
+1. [CSS in Atom](/notes/atom-css.md)
+1. [Basic CSS](/notes/css-basic.md)
+1. [Classes and IDs](/notes/css-class-id.md)
+1. [CSS Selectors](/notes/css-selectors.md)
+1. [The Cascade and Specificity](/notes/css-cascade.md)
+1. [CSS Values](/notes/css-values.md)
+1. [Style Locations](/notes/css-locations.md)
+1. [CSS Property Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
+1. CSS Code Style
+1. [Web Inspector Style Basics](/notes/web-inspecting-css.md)
+1. [CSS Problem Solving](/notes/problem-solving-css.md)
+1. Demo: [Basic Style](/demos/css-basic.md)
+1. Checked Practice: [Bio Style](/practice/bio-style.md)
+1. Individual Practice: Selector Puzzle
+1. [Box Model and Sizing](/notes/layout-box-model.md)
+1. [Default Layout](/notes/layout-default.md)
+1. [Hierarchical Layout](/notes/layout-hierarchy.md)
+1. [Flexbox](/notes/layout-flexbox.md)
+1. [Layout Problem Solving](/notes/problem-solving-layout.md)
+1. Demo: [Basic Layout](/demos/layout-basic.md)
+1. Group Practice: [Sidebar](/practice/sidebar.md)
+1. Checked Practice: [Pyramid](/practice/pyramid.md)
+1. Individual Practice: [Bio Layout](/practice/bio-layout.md)
+1. [Other Layout Techniques](/notes/layout-other.md)
