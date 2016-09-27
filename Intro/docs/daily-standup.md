@@ -1,7 +1,4 @@
-# Daily Standup
-
-Monday through Thursday of each week going forward, we will hold a “daily standup,” a short status meeting to keep the team aligned on tasks and impediments.
-
+# Standup
 > We stand up to keep the meeting short.
 
 The goal of our standups will be the following:
