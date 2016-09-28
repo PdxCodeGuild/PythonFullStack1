@@ -21,17 +21,3 @@ the latest letter is v.
 2
 """
 
-def count_letter(letter, word):
-    letter_count = word.lower().count(letter)
-    return letter_count
-
-def latest_letter(word):
-    latest = 'a'
-    for letter in word:
-        if (letter > latest):
-            latest = letter
-    return "the latest letter is {}.".format(latest)
-
-def lower_case(word):
-    word = word.lower().strip()
-    return word
