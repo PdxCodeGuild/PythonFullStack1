@@ -29,30 +29,5 @@ Invalid!
 
 """
 def validate(credit_number):
-    check_digit = credit_number.pop()
-    reversed_list = credit_number[::-1]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    for index, item in enumerate(reversed_list):
-        if index % 2 == 0:
-            reversed_list[index] = item * 2
-    subtracted = [i - 9 for i in reversed_list if i > 9]
-    result = str(sum(subtracted))[1]
-
-    if result == '5':
-        print("Valid!")
-
-    else:
-        print("Invalid!")
+   pass #Write your code here.
+   return

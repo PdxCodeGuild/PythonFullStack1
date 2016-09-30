@@ -36,36 +36,3 @@ False
 
 """
 
-def backwards(sequence):
-    return sequence[::-1]
-
-
-def maximus(sequence):
-    biggest = max(sequence)
-    first_digit = str(biggest)[0]
-    counter = 0
-
-    for item in list(sequence):
-        if first_digit in str(item):
-            sequence[counter] = biggest
-            counter += 1
-    return sequence
-
-def compare_first_element(sequence, other_sequence):
-    if sequence[0] == other_sequence[0]:
-        return True
-    else:
-        return False
-
-def compare_second_letter(sequence, other_sequence):
-    if sequence[1][0] == other_sequence[1][0]:
-        return True
-    else:
-        return False
-
-def smoosh(sequence, other_sequence, reverse=False):
-    if reverse == True:
-        result = (sequence + other_sequence)[::-1]
-    else:
-        result = sequence + other_sequence
-    return result
