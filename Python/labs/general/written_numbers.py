@@ -4,11 +4,11 @@ then prints out the name of it in English.
 
 >>> written(42)
 'fourty-two'
+
 >>> written(1)
 'one'
+
 >>> written(99)
 'ninety-nine'
 
-# Additionally
-Look for a python module to do the translation and provide the implemented solution.
 """

@@ -1,4 +1,3 @@
-
 # Python
 
 1. [Programming Philosophy](/Python/docs/programming-philosophy.md)
@@ -26,6 +25,7 @@
 1. Group Practice: [Change Return](/practice/change-return.md)
 1. Checked Practice: [Wall Painting](/practice/wall-painting.md)
 1. Individual Practice: [Madlib](/practice/madlib.md)
+
 1. [Booleans](/Python/docs/py-booleans.md)
 1. [Comparison Operators](/Python/docs/py-operators-comparison.md)
 1. [Advanced Assignment](/Python/docs/py-assignment-adv.md)
@@ -37,6 +37,7 @@
 1. Individual Practice: [Taxes](/practice/taxes.md)
 1. [Boolean Operators](/Python/docs/py-operators-boolean.md)
 1. Demo: [Bool Game](/demos/bool-game.md)
+
 1. [Lists](/Python/docs/py-lists.md)
 1. [Sequence Operators](/Python/docs/py-sequence-operators.md)
 1. [Optional and Keyword Arguments](/Python/docs/py-functions-calling-optional.md)
@@ -51,6 +52,7 @@
 1. Group Practice: [Last Join](/practice/last-join.md)
 1. Checked Practice: [Pig Latin](/practice/pig-latin.md)
 1. Individual Practice: [I-E Spelling](/practice/spelling.md)
+
 1. [Functions](/Python/docs/py-functions-defining.md)
 1. [Interfaces and Scope](/Python/docs/scope-interfaces.md)
 1. [Main Function](/Python/docs/py-functions-main.md)
@@ -63,6 +65,7 @@
 1. Group Practice: [Distance Converter Refactor](/practice/distance-converter-func.md)
 1. Checked Practice: [Pig Latin Refactor](/practice/pig-latin-func.md)
 1. Individual Practice: [Refactor Everything](/practice/func-everything.md)
+
 1. [If Expressions](/Python/docs/py-if-expressions.md)
 1. [List Comprehensions](/Python/docs/py-lists-comprehensions.md)
 1. [Mutability](/Python/docs/mutability.md)
@@ -76,10 +79,10 @@
 1. [Advanced Debugging](/Python/docs/debugging-adv.md)
 1. [Searching for Solutions](/Python/docs/googling.md)
 1. [Using Python 2](/Python/docs/py-using2.md)
-
 1. Group Practice: [Credit Card Validator](/practice/credit.md)
 1. Checked Practice: [Programming Case Conversion](/practice/case.md)
 1. Individual Practice: [Sum Pairs](/practice/sum-pairs.md)
+
 1. [For Loops](/Python/docs/py-for-loops.md)
 1. [None](/Python/docs/py-none.md)
 1. [Dicts](/Python/docs/py-dicts.md)
@@ -91,10 +94,10 @@
 1. [Sorting](/Python/docs/sorting.md)
 1. [Searching](/Python/docs/searching.md)
 1. [Picking Data Structures](/Python/docs/problem-solving-data-structures.md)
-
 1. Group Practice: [Table Pretty Print](/practice/table-pretty-print.md)
 1. Checked Practice:
 1. Individual Practice: [Connect Four](/practice/connect-four.md)
+
 1. [Writing Good Tests](/Python/docs/testing-writing.md)
 1. [Structured Data](/Python/docs/structured-data.md)
 1. [Named Tuples](/Python/docs/py-tuples-named.md)
@@ -103,10 +106,10 @@
 1. [Data Problem Solving](/Python/docs/problem-solving-data-transformations.md)
 1. [JSON](/Python/docs/json.md)
 1. [File IO](/Python/docs/py-io-file.md)
-
 1. Group Practice: [Reviews](/practice/reviews.md)
 1. Checked Practice: [Rain](/practice/rain.md)
 1. Individual Practice: [Site Metrics](/practice/site-metrics.md)
+
 1. [Basic Objects and Classes](/Python/docs/py-classes-basic.md)
 1. [Class Init](/Python/docs/py-classes-init.md)
 1. [Data Design](/Python/docs/py-classes-design.md)
@@ -121,6 +124,7 @@
 1. Group Practice: [Geometry](/practice/geometry.md)
 1. Checked Practice: [Blackjack](/practice/blackjack.md)
 1. Individual Practice: [Adventure Game](/practice/adventure.md)
+
 1. [Catching Exceptions](/Python/docs/py-exceptions-catching.md)
 1. [Raising Exceptions](/Python/docs/py-exceptions-raising.md)
 1. [Type Methods](/Python/docs/py-classes-methods.md)
@@ -128,10 +132,9 @@
 1. [Basic Inheritance](/Python/docs/py-classes-inheritance-basic.md)
 1. [Type Interfaces](/Python/docs/py-classes-interface.md)
 1. [Pytest](/Python/docs/py-pytest.md)
-
 1. Group Practice: [ATM Interface](/practice/atm-interface.md)
 1. Checked Practice: [Tic-Tac-Toe Interface](/practice/ttt-interface.md)
-1. [Generators and Yield](/Python/docs/py-generators.md)
 
+1. [Generators and Yield](/Python/docs/py-generators.md)
 1. [Decorators](/Python/docs/py-decorators.md)
 1. [Vararg and Kwarg Functions](/Python/docs/py-functions-vararg-kwarg.md)

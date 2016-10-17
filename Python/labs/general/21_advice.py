@@ -1,4 +1,7 @@
 """
+Make a function that advises a player on the best next move in a round of blackjack.
+For now, just use 15 as a Hit/Stay Threshold.  Feel free to add testable features.
+
 >>> advise_player(10, 5)
 15 Hit.
 
@@ -13,18 +16,5 @@
 
 >>> advise_player(J, K)
 20 Stay.
-
-
-# A little harder
-Add a Menu to the game.
-Put the game in a loop or recursive funciton call, and continue to play until the player types 'exit'.
-
-# Advanced:
-How can we accept any number of player cards as argumets, and still advise the player?.
-
-# Super Advanced
-Implement score keeping.
-Implement Double Down.
-
 
 """

@@ -1,5 +1,5 @@
 """
-Write a function that returns true if the input is a palindrome, or false, if it is not.
+Write a function that returns True if the input is a palindrome, or False, if it is not.
 
 >>> palindrome('hannah')
 True

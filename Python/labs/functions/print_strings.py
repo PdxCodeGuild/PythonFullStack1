@@ -1,4 +1,6 @@
 """
+Use zip().
+
 >>> together('knights', 'camalot')
 k c
 n a

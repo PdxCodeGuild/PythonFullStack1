@@ -1,5 +1,4 @@
 """
-
 # Return a list with each element multiplied by n.
 # If the product is 0, dont include it in the output list.
 

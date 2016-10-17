@@ -8,7 +8,7 @@ class TestAccountCreation(unittest.TestCase):
         self.test_saccount = Account(10454, 'savings')
 
     def test_initial_checking_account_open(self):
-        self.assertEqual(self.test_caccount.balance, 210)
+        self.assertNotEqual(self.test_caccount.balance, 210)
         self.assertEqual(self.test_caccount.account_type, 'checking')
 
     def test_initial_savings_account_open(self):
@@ -48,6 +48,7 @@ class TestAccountOperations(TestAccountCreation):
     def test_get_standing_bool(self):
         self.assertFalse(self.test_caccount.get_standing())
         self.assertTrue(self.test_saccount.get_standing())
+
 '''
 class TestATMInterface(TestAccountCreation):
     pass

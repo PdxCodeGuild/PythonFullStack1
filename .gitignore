@@ -1,4 +1,9 @@
 Instructor/
+instructor
+*instructor
+./instructor
+instructor/*
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

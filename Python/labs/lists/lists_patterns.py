@@ -1,4 +1,11 @@
 """
+Implement solutions in as many ways as possible.
+
+- Increment
+- Enumertate
+- Range
+- For Each
+
 >>> a
 'music'
 

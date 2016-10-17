@@ -1,6 +1,5 @@
 """
-Return the indexes of all occourances of a substring as a list.
-
+Return the number of occour
 >>> occourances('l', 'llama')
 [0, 1]
 

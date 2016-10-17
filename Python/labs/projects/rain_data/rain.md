@@ -1,11 +1,7 @@
-# Practice: Rain - Functional Approach
-
-Save your solution in a Python file in `practice/` in a branch and make a GitHub pull request all named `rain`.
+# Practice: Rain
 
 The city of Portland has rain gauges that keep track of rainfall.
 [A website](http://or.water.usgs.gov/non-usgs/bes/) has text data tables the history of all the daily measurements at these gauges.
-
-Adapt it to read [the history of the gauge at Sunnyside School](https://raw.githubusercontent.com/PdxCodeGuild/Full-Stack-Day-Class/master/practice/sunnyside.rain).
 
 It looks like:
 
@@ -17,6 +13,7 @@ It looks like:
 24-MAR-2016     6    0   1
 23-MAR-2016     -    -   -
 MORE...
+
 ```
 
 The amounts are in hundredths of inches or are a `-` if the sensor was broken.

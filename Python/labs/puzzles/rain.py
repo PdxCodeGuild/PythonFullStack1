@@ -1,6 +1,6 @@
 """
 
-For example, suppose the heights of the stacked hutches are [1,4,2,5,1,2,3] (the hutches are shown below):
+Suppose the heights of stacked hutches are [1,4,2,5,1,2,3] (the hutches are shown below):
 
 ...X...
 .X.X...
@@ -24,6 +24,5 @@ The amount of water that has accumulated is the number of Os, which, in this ins
 5
 >>> answer([1, 2, 3, 2, 1])
 0
-
 
 """
