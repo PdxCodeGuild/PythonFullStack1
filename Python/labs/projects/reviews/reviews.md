@@ -45,5 +45,3 @@ Then, write out functions that answer the following questions each.
 
 * Return all businesses that mention a word in any of their reviews.
 * Return all businesses that mention a word in any of their reviews sorted by how many times that word appears.
-
-You're on your way to building a search engine.

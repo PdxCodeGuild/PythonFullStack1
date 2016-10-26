@@ -6,9 +6,10 @@ Implement two value classes `Point` and `Rectangle` in modules named `point` and
 
 * Points should store their `x` and `y` coordinates
 * Rectangles should store their top left point, then a `w` width and `h` height
-* Both should have magic repr and magic equals implemented
+* Both should have \_\_repr\_\_ and  \_\_eq\_\_ implemented
 
 Then create some top-level functions in those modules that know how to operate on instances of each class.
+
 In the `point` module:
 
 * Find the distance between two points
@@ -19,4 +20,4 @@ In the `rectangle` module:
 * Know if a point is inside a rectangle
 * Find the center point of a rectangle
 
-All functions, even magic class functions, should have doctests.
+All functions, even magic methods, should have tests.

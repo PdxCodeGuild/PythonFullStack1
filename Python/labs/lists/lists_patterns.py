@@ -6,11 +6,8 @@ Implement solutions in as many ways as possible.
 - Range
 - For Each
 
->>> a
-'music'
-
->>> b
-[17, 28, 42, 31, 12]
+>>> a = 'music'
+>>> b = [17, 28, 42, 31, 12]
 
 >>> display_indexes(a)
 m 0
@@ -28,6 +25,3 @@ i 31
 c 12
 
 """
-
-a = 'music'
-b = [17, 28, 42, 31, 12]

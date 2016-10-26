@@ -38,10 +38,6 @@ Compute the ARI for some text loaded in from a file.
 
 1. Create a new directory called `ari` in your code repo
 1. Create a file called `main.py` file in the `ari` directory
-1. Download the following files to your `ari` directory:
-    - [geneology-of-morals.txt](https://raw.githubusercontent.com/segdeha/pdxcodeguild/master/1.%20Python/solutions/ari/geneology-of-morals.txt?token=AAAQ0iIWwUkVVY9qXnLdltRGDUI6TtjZks5XWdDdwA%3D%3D)
-    - [gettysburg-address.txt](https://raw.githubusercontent.com/segdeha/pdxcodeguild/master/1.%20Python/solutions/ari/gettysburg-address.txt?token=AAAQ0n7jSNNNtENrA1c-WeAS3tvussbtks5XWdGGwA%3D%3D)
-    - [jack-and-jill.txt](https://raw.githubusercontent.com/segdeha/pdxcodeguild/master/1.%20Python/solutions/ari/jack-and-jill.txt?token=AAAQ0g6lXHjuUsJxW2ZcFELjH72pHcXfks5XWdGewA%3D%3D)
 
 When the user runs `main.py`, they should be presented with a menu of choices of the above files to choose from that looks something like the following:
 

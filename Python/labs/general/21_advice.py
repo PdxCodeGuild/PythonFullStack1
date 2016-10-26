@@ -5,16 +5,16 @@ For now, just use 15 as a Hit/Stay Threshold.  Feel free to add testable feature
 >>> advise_player(10, 5)
 15 Hit.
 
->>> advise_player(Q, 5)
+>>> advise_player('Q', 5)
 15 Hit.
 
->>> advise_player(A, K)
+>>> advise_player('A', 'K')
 21 Blackjack!
 
->>> advise_player(A, A)
-21
+>>> advise_player('A', 'A')
+12 Hit.
 
->>> advise_player(J, K)
+>>> advise_player('J', 'K')
 20 Stay.
 
 """

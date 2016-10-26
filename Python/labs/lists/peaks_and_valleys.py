@@ -1,9 +1,10 @@
 """
-Return a list of ints, that represent the position of all elements
-in a list where the numbers before and the number after are less than the number itself.
+
+Returns the indicies of peaks. A peak has a lower number on either side of it.
 >>> peaks([1, 2, 3, 4, 5, 6, 7, 6, 5, 4, 5, 6, 7, 8, 9, 8, 7, 6, 7, 8, 9])
 [6, 14]
 
+Returns the indicies of 'vallies'. A peak has a lower number on either side of it.
 >>> valleys([1, 2, 3, 4, 5, 6, 7, 6, 5, 4, 5, 6, 7, 8, 9, 8, 7, 6, 7, 8, 9])
 [9, 17]
 

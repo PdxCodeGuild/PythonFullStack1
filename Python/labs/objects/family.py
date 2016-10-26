@@ -7,6 +7,7 @@ Test the Person class.
 >>> kieran.name
 'Kieran'
 >>> kieran.children
+[]
 
 Set Up Some Variables for the Doctest... Each tuple is (child, parent).
 >>> family = [('Terri', 'MoMo'), ('Bob', 'MoMo'), ('Kieran', 'Terri'), ('Lynn', 'Terri')]
@@ -15,19 +16,21 @@ Set Up Some Variables for the Doctest... Each tuple is (child, parent).
 Build the family tree.
 >>> momo = build_tree(eldest_name, family)
 >>> momo.children
-['Terri', 'Bob']
+[Terri, Bob]
 >>> momo.children[0].children
-['Kieran', 'Lynn']
+[Kieran, Lynn]
 >>> momo.children[1].children
+[]
 
 """
 
 class Person:
-    pass
 
-    def __init__(self, name):
-        pass
+    def __init__(name):
+        self.name = name
+        self.children = list()
 
 
-def build_tree(family, eldest_name):
+# Use th  object below:
+def build_tree(elder_name, family):
     pass
