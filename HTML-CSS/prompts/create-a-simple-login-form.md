@@ -28,4 +28,3 @@ Copy and paste the following into the CSS pane in your pen to help with formatti
 
 - Add more fields of varying types
 - Try grouping related fields using the `<fieldset></fieldset>` tag
-
