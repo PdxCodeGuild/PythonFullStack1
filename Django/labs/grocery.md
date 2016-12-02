@@ -1,8 +1,5 @@
 # Practice: Grocery
 
-Save your solution in a Django app, directory in `practice/`, and in a branch all named `grocery`.
-This means there will be a directory `~/codeguild/practice/grocery/grocery`.
-
 Write a very simple HTTP API that returns the price of various items in the grocery in a few different currencies.
 
 Have support for the following currencies:
@@ -12,8 +9,7 @@ Have support for the following currencies:
 * CNY
 * JPY
 
-Let's define that API.
-In `views.py` and `urls.py` make routes for:
+Make routes for:
 
 *   `GET /product/PRODUCT_NAME/price` should respond with the price in dollars.
     The response should look like `PRODUCT_NAME is AMOUNT dollars`.
@@ -41,18 +37,3 @@ PRODUCTS = [
     },
 ]
 ```
-
-Then write a data lookup function `lookup_product_for_name(name)`
-Throw a `KeyError` if that product isn't found.
-
-In `logic.py` write out the following functions:
-
-*   `price_for_product_name(name)`
-    Throw a `KeyError` if the product isn't found.
-    Use the model function you just wrote.
-
-*   `convert_currency(in_amount, in_currency, out_currency)`
-    Look up some exchange rate constants.
-    Throw a `ValueError` if the output currency isn't found.
-
-This structure walks you through the MVC pattern, and I'll be giving you feedback on having your more complex projects follow it too.
