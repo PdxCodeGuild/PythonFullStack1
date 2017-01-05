@@ -8,7 +8,7 @@
  unladen swallow is about 24 miles per hour or 11 meters per second. But, the real \
  question is not about swallows at all."
 
->>>shortest_to_longest(quote)
+>>> shortest_to_longest(quote)
 ['a', 'In', 'of', 'is', '24', 'or', '11', 'is', 'at', 'the', 'the', 'per', 'per', 'the', 'not', 'end,', "it's", 'that', 'hour', 'But,', 'real', 'all.', 'about', 'miles', 'about', 'meters', 'unladen', 'swallow', 'second.', 'airspeed', 'velocity', 'question', 'swallows', 'concluded', '(European)']
 
 >>> sort_last_char(words)

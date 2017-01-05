@@ -11,6 +11,6 @@
 6
 
 # Return the longest string
->>> choose_longer("Dalton", "Clinton")
-'Clinton'
+>>> choose_longer("Greg", "Rooney")
+'Rooney'
 """
