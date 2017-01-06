@@ -1,10 +1,10 @@
 """
 
 >>> snake_to_camel('this_is_snake_case')
-'ThisIsCamelCalse'
+'ThisIsSnakeCase'
 
->>> camel_to_snake('ThisIsCamelCalse')
-'this_is_snake_case'
+>>> camel_to_snake('ThisIsCamelCase')
+'this_is_camel_case'
 
 >>> which_case('this_test_text')
 'snake_case.'
@@ -12,7 +12,7 @@
 >>> which_case('this_is_snake_case')
 'snake_case.'
 
->>> which_case('ThisIsCamelCalse')
+>>> which_case('ThisIsCamelCase')
 'CamelCase.'
 
 """

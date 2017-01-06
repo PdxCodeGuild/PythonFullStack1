@@ -12,7 +12,7 @@ For now, just use 15 as a Hit/Stay Threshold.  Feel free to add testable feature
 21 Blackjack!
 
 >>> advise_player('A', 'A')
-12 Hit.
+11 Hit.
 
 >>> advise_player('J', 'K')
 20 Stay.
