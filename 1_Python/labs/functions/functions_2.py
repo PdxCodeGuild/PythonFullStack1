@@ -8,7 +8,7 @@
 
 # Return the sum of any number of integers
 >>> combine_many(980, 667, 4432, 788, 122, 9, 545, 222)
-6
+7765
 
 # Return the longest string
 >>> choose_longer("Greg", "Rooney")
