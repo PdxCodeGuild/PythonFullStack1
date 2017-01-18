@@ -21,7 +21,7 @@ Refrain from use of alcohol except in moderation at events hosted at the PDX Cod
 * No smoking, vaping or use of tobacco products on the PDX Code Guild premises except for designated areas outside.
 Please dispose of cigarette butts and other tobacco products in the dumpster outside. 
 
-* Refrain from using offensive or abusive language. 
+* Refrain from using offensive or abusive language.
 
 * Be honest and trustworthy.
 
@@ -36,7 +36,7 @@ Wash any dishes you use.
 * Maintain your dress, personal appearance and hygiene in a clean, tidy and work appropriate manner.
 Be courteous and take steps to minimize body odors.
 
-* Respect the personal property of others and the property of PDX Code Guild. 
+* Respect the personal property of others and the property of PDX Code Guild.
 
 * Use the work of others only when appropriate, and give proper credit when other’s work is used. 
 

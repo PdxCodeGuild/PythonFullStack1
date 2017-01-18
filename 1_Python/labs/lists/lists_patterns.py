@@ -1,10 +1,11 @@
 """
 Implement solutions in as many ways as possible.
 
-- Increment
+- For Each
+- Increment / Counter
 - Enumertate
 - Range
-- For Each
+- Zip
 
 >>> a = 'music'
 >>> b = [17, 28, 42, 31, 12]

@@ -1,5 +1,5 @@
 """
-Use zip().
+Use the zip() function!
 
 >>> together('knights', 'camalot')
 k c

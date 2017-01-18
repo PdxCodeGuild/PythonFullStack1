@@ -16,7 +16,7 @@ Given two lists, return True of the first two items are the equal.
 >>> compare_first_element(['migratory', 'birds', 'fly', 'south'], ['migratory', 'monopoloy', 'mind'])
 True
 
-Return True if the first letter of the second element in the list is the same. (case insensitive)
+Return True if the first letter of the second element in each list is equal. (Case Insensitive)
 >>> compare_second_letter(['migratory', 'penguins', 'fly', 'south'], ['One', 'Pound', 'Coconut'])
 True
 
