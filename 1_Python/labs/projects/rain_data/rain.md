@@ -6,7 +6,8 @@ The city of Portland has rain gauges that keep track of rainfall.
 It looks like:
 
 ```
-            Daily  Hourly data -->
+Daily  Hourly data -->
+
    Date     Total    0   1
 --------------------------
 25-MAR-2016     0    0   0
@@ -23,14 +24,18 @@ Print out a summary of the data:
 * The specific date with the most rain.
 * The year with the most rain.
 
-You will have to slice out the header lines from all the lines you read.
-Remember, the header has a totally different format.
-You can split a string by whitespace into a list of strings using `str.split()`.
-You will also have to slice out the date and daily total from each of those lists of strings.
-If there are any days with `-` for data, explicitly drop them from your dataset.
+#### Note:
+1. The header has a totally different format than the data itself.  You will have to slice out the header lines from all the lines you read.
 
-Avoid using un-named "pairs" outside of dictionaries.
-If you need to group together individual instances of a date and a rainfall amount, use a named tuple.
+2. You can split a string by whitespace into a list of strings using `.split()`.
+
+3. Extract the date sting from the date columns.
+
+4. If there are any days with `-` for data, explicitly drop them from your dataset.
+
+5. Avoid using un-named "pairs" outside of dictionaries.
+
+6. If you need to group together individual instances of a date and a rainfall amount use a tuple! ( Or perhaps look at the namedtuple form collections. )
 
 ## Advanced
 

@@ -30,6 +30,9 @@ Place some **potions** and a **weapon** for the player to pick up.
 
 Keep a global list of all entities, and update that list as the game progresses.
 Have a `render()` function that renders the whole level from that giant list.
+
+
+
 (If you're interested, this is on the way towards a [entity-component system](https://en.wikipedia.org/wiki/Entity_component_system) which is a real-life way of architecting games.)
 
 The game will work in a **stepwise** fashion.
