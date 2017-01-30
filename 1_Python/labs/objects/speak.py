@@ -37,5 +37,5 @@ False
 False
 
 >>> llama.speak()
-shazbat
+'shazbat'
 """

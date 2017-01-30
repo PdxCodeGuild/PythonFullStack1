@@ -16,9 +16,9 @@ Set Up Some Variables for the Doctest... Each tuple is (child, parent).
 Build the family tree.
 >>> momo = build_tree(eldest_name, family)
 >>> momo.children
-[Terri, Bob]
+['Terri', 'Bob']
 >>> momo.children[0].children
-[Kieran, Lynn]
+['Kieran', 'Lynn']
 >>> momo.children[1].children
 []
 
@@ -31,6 +31,6 @@ class Person:
         self.children = list()
 
 
-# Use th  object below:
+
 def build_tree(elder_name, family):
     pass
