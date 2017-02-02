@@ -8,7 +8,7 @@ class TestValet(unittest.TestCase):
         """
         Create a few instances before we start testing.
         """
-        self.mikes_lot = ParkingLot(capacity=3, rate=20)
+        self.mikes_lot = ParkingLot(capacity=3, rate=20.0)
         self.mustang = Vehicle(color='red', plate='PDXFTW')
         self.honda = Vehicle(color='cyan', plate='EWR456')
         self.lemon = Vehicle(color='black', plate='HGH72L')

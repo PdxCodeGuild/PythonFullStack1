@@ -31,6 +31,5 @@ class Person:
         self.children = list()
 
 
-
 def build_tree(elder_name, family):
     pass

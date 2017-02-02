@@ -1,41 +1,19 @@
-"""
->>> snake = Animal()
+class TestAnimals:
 
->>> snake.is_animal
-True
 
->>> snake.is_vegetable
-False
+    def setup_class(self):
+        """
+        setup any state specific to the execution of the given class (which
+        usually contains tests).
+        """
+        self.llama = Animal(sound='shazbat')
+        self.snake = Animal(legs=0)
 
->>> snake.is_mineral
-False
+    def test_default_animal_creation(self):
+        assert self.llama.is_animal is True
+        assert self.llama.is_mineral is False
+        assert self.is_vegetable is False
 
->>> snake.number_of_legs
-0
-
->>> snake.what_i_say is None
-True
-
->>> snake.speak()
-Sorry, I don’t speak!
-
->>> llama = Animal(legs=3, say='shazbat')
-
->>> llama.is_animal
-True
-
->>> llama.is_vegetable
-False
-
->>> llama.is_mineral
-False
-
->>> llama.number_of_legs
-3
-
->>> llama.what_i_say is None
-False
-
->>> llama.speak()
-'shazbat'
-"""
+    def test_animal_speaking(self):
+        assert self.llama.speak() == 'shazbat'
+        assert self.snake.speak() is None
