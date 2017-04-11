@@ -2,7 +2,7 @@
 
 Create a python class named `Degrees`
 
-Support adding and subtracting two Heading instances by implementing the `__add__` and `__sub__` magic methods.
+Support adding and subtracting two Degrees instances by implementing the `__add__` and `__sub__` magic methods.
 
 Also support:
 -  `__eq__`
@@ -14,4 +14,4 @@ Also support:
 
 For example:
 
-`270 Degrees + 132 Degrees = Heading 42 Degrees`
+`270 Degrees + 132 Degrees = 42 Degrees`
