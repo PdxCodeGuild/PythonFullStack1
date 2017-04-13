@@ -10,11 +10,8 @@
 
 ### Advanced ###
 
->>>snake_to_camel('this_is_snake_case')
+>>> snake_to_camel('this_is_snake_case')
 'ThisIsSnakeCase'
-
->>>camel_to_snake('ThisIsCamelCase')
-'this_is_camel_case'
 
 
 """
