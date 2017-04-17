@@ -1,2 +1,0 @@
-{"business_name": "Dicks Burgers", "city": "Seattle"}
-{"business_name": "Voodoo Donuts", "city": "Portland"}
