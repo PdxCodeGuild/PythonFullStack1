@@ -1,10 +1,17 @@
-# Exercise: Compute Automated Readability Index
+# Lab: Compute Automated Readability Index
 
-The automated readability index (ARI) is a formula for computing the U.S. grade level for a given block of text.
+##### Delivery Method: Prompt Only
 
-------
+----------------------------------
 
-## Automated Readability Index Formula
+#### Goal
+
+Compute the ARI for a given body of text loaded in from a file.  The automated readability index (ARI) is a formula for computing the U.S. grade level for a given block of text.
+
+----------------------------------
+
+
+##### Automated Readability Index Formula
 
 The general formula to compute the ARI is as follows:
 
@@ -14,6 +21,7 @@ In plain English, the score is computed by multiplying the number of characters 
 
 Scores correspond to the following ages and grad levels:
 
+```
     Score  Ages     Grade Level
      1       5-6    Kindergarten
      2       6-7    First Grade
@@ -29,12 +37,12 @@ Scores correspond to the following ages and grad levels:
     12     16-17    Eleventh grade
     13     17-18    Twelfth grade
     14     18-22    College
+```
 
-------
+----------------------------------
 
-## Objective
+#### Instructions
 
-Compute the ARI for some text loaded in from a file.
 
 1. Create a new directory called `ari` in your code repo
 1. Create a file called `main.py` file in the `ari` directory
