@@ -4,8 +4,8 @@
 >>> sorted_absolute(numbers)
 [1, 2, -2, -3, -4, -6, 6, 7, -9, 9]
 
->>> quote = "In the end, it's concluded that the airspeed velocity of a (European)" \
- "unladen swallow is about 24 miles per hour or 11 meters per second. But, the real"  \
+>>> quote = "In the end, it's concluded that the airspeed velocity of a (European) " \
+ "unladen swallow is about 24 miles per hour or 11 meters per second. But, the real "  \
  "question is not about swallows at all."
 
 >>> shortest_to_longest(quote)
