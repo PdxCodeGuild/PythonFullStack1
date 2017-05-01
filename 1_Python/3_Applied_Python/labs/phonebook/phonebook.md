@@ -76,7 +76,7 @@ Support searching by:
 - Using the python CSV Module's CSVDictReader, download your google contacts and add them to your phonebook on startup
 
 
-#### Future
+#### Future...?
 
 Use the Twilio API to send a text message from your program.
 
@@ -93,9 +93,8 @@ Use the Twilio API to send a text message from your program.
 
 #### Key Concepts
 
-- Concept One
-- A Good Idea
-- A Tough One
-
+- Dictionaries
+- CRUD
+- Common Dictionary Operations
 
 
