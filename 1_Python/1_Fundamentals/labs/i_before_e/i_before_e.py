@@ -2,7 +2,7 @@
 Check that a word follows "I before E except after C".
 
 >>> check("recieve")
-recieve doesn't follow the rule
+recieve does not follow the rule
 
 >>> check("receive")
 receive does follow the rule
@@ -20,3 +20,5 @@ weird does not follow the rule
 science does not follow the rule
 
 """
+
+# Write your code here...
