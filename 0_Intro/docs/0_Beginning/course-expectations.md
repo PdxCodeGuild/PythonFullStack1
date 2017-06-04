@@ -34,31 +34,18 @@ If I believe you are falling behind in the material, I will ask you to schedule 
 ## Commitment
 
 The course is full-time and very fast moving.
-**Keep your class time sacred. I cannot stress this enough.**
-Most of the class time will be allotted to working on problems in groups or individually.
-**Still, expect to work on course material outside of class.**
+**Cherish your time in class!**
+Most of the class time will be allotted to working on problems individually, interpersonally or in groups.
+**This class will require work outside of the alloted class time.**
 Spend some time reviewing and studying up every evening and weekend.
-
-If you fall behind, you will have to spend outside-of-class time catching up.
-For the sake of the rest of the class, we have to continue.
-
-## Mindset
-
-The only students that succeed in this course are those that either have or learn a certain mindset.
-Everyone can learn this mindset.
 
 ### Embrace Mistakes and Feedback
 
-**The computer is about to bash you over the head every day with hundreds of complaints.
-You are going to have to deal with it.**
-Even masters do not code perfectly on the fifth try.
-I will be continually giving you informal feedback of your work also.
-**Studying more will not allow you to avoid all mistakes.**
-Thrive on the feedback, it's usually easy to follow.
-**Do not shy away from mistakes.**
-The only way to learn is to _do_ because there is no way to study it all.
-
-If you are a perfectionist, let me know now, because you're going to have to temper that behavior.
+Nobody is perfect, especially when you're starting something new!
+Embrace failure as much as possible, there's a saying "Fail fast, and fail early."
+Online resources will be your savior! (Search for errors or behaviour you want to achieve.)
+__THE 12 MINUTE RULE__ (Don't burn yourself out.)
+Your fellow students and I are always here for feedback and retort.
 
 ### Are Precise and Flexible Simultaneously
 

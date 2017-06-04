@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is an immersive, hands-on 12 week course to teach the technical and personal skills necessary to become a junior full-stack web developer.
+This is an immersive, hands-on 16 week course to teach the technical and personal skills necessary to become a junior full-stack web developer.
 
 ## Topic Outline
 
