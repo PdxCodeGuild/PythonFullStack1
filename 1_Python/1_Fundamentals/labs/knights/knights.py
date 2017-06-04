@@ -6,7 +6,7 @@ Define a function named knights() that returns a string to make the doctest pass
 Here is the test. it is indicated on the next line by the `>>>`:
 
 >>> knights()
-'Knights who say Ni!'
+Knights who say Ni!
 
 The line above is an assertion that when kinghts() is called, it will in fact
 return the string 'Knights who say Ni!'
