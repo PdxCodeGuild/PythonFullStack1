@@ -1,59 +1,42 @@
-# Shell Games
+# Command-Line Tour
 
-Python allows you to execute arbitrary commands via an interactive shell in the terminal. This is a great way to test out a piece of syntax to make sure it does what you want or just to learn new Python commands.
+We will be working from your system’s command-line interface (CLI) throughout the course. Below are some common commands with which you should become familiar.
 
-## Objective
+(These should all work on OS X and Linux. See [Introduction to the Windows Command Prompt](http://www.bleepingcomputer.com/tutorials/windows-command-prompt-introduction/) for their Windows equivalents.)
 
-Learn how to use Python’s interactive shell to experiment with the language.
-
-1. Open Terminal
-1. Type `python` then hit [return]
-1. Follow along with your instructor
-
-------
-
-## Hello, world!
-
-The `print` function allows you to output strings to the terminal.
-
-    print('Hello, world!') #> Hello, world!
-    print("Hello, world!") #> Hello, world!
+- `ls` — list files in current directory
+- `cd` — change directory
+- `cd ~/` — change to your home directory
+- `cd Documents` — change to the Documents directory
+- `cd ../` — go up one directory
+- `mkdir` — make a directory, e.g., `mkdir NewFolder` to make a new directory with name NewFolder
+- `rmdir` — remove a directory, e.g., `rmdir NewFolder` to delete the directory we just created (or `rmdir -R NewFolder` if the directory is not empty)
+- `pwd` — list the current directory (‘pwd’ stands for ‘print working directory’)
+- `touch` — create a new, empty file, e.g., `touch new_file.txt`
+- `cp` — copy a file, e.g., `cp new_file.txt newer_file.txt`
+- `rm` — remove a file, e.g., `rm newer_file.txt`
 
 ------
 
-## Basic Math
+## Autocomplete
 
-Python gives you all of the basic math operators.
+A super-handy shortcut when working with the CLI is to tab to autocomplete. Try the following (on OS X):
 
-    4 + 2  #> 6
-    5 - 9  #> -4
-    12 / 5  #> 2.4
-    4 * 5  #> 20
+1. `cd ~/`
+1. `ls Doc` + [tab]
 
-It also gives you some stranger ones….
+The system should have autocompleted to `ls Documents/`. You can then hit [enter] to execute the command.
 
-Floor division divides then throws away the remainder.
+If the system can’t resolve the autocomplete to a single string, tab a second time to get a list of the matching options. Try the following (on OS X):
 
-    12 // 5  #> 2
+1. `cd ~/`
+1. `ls D` + [tab] + [tab]
 
-Exponentiation takes a number to a power.
-
-    3 ** 2  #> 9
+The system should have shown you `Desktop/   Documents/ Downloads/` as the possible options. Type `e` + [tab] and the system should autocomplete to `ls Desktop/`.
 
 ------
 
-## Imports
+## Resources for futher reading:
 
-Python has available what is called a “standard library”. You can import modules from the standard library and try them out in the shell.
-
-    import math
-    math.pi #> 3.141592653589793
-    
-    import random
-    random.choice(['apple', 'pear', 'banana']) #> 'apple'
-
-------
-
-## Exercise
-
-Spend the next few minutes experimenting with Python in the interactive shell. Try some of the examples from this page about the [standard library](https://docs.python.org/3/tutorial/stdlib.html). Interesting ones include `glob`, `re`, `statistics`, `urllib.request`, and `datetime`.
+1. [A very, very gentle introduction to the Linux Command Line](http://chrisyoung.net/prose/blog/posts/2009-11-28-very-very-gentle-introduction-linux-command-line/)
+1. Django Girls [Introduction to the command-line interface](http://tutorial.djangogirls.org/en/intro_to_command_line/)
