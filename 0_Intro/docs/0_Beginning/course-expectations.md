@@ -10,26 +10,23 @@ There is a focus on practicality and delivering results, not studying concepts.
 
 ## Resources
 
-You are paying for access to Code Guild's expertise.
-Use it.
-Ask me questions.
-Pick my brain.
-**Look at my demos.**
-Research how to do advanced problems.
+Ask Questions!
 
-You should get my attention _at any time_ if you have a question.
-If you bang your head against the wall for 30 minutes and can't solve something, stop.
-Find me.
-Don't wait.
+Feel free to get my attention _at any time_ if you have a question.
 
-Your fellow students are an amazing resource.
-Ask them questions.
 You are an amazing resource.
+Your fellow students are also an amazing resource, Ask them questions.
+
 Prioritize teaching others in the class with every interaction.
 Teaching is the best way to solidify your own understanding.
 
-Outside-of-class tutoring is free and can be scheduled with [Chris Jones](mailto:chris@pdxcodeguild.com).
-If I believe you are falling behind in the material, I will ask you to schedule tutoring time.
+Outside-of-class tutoring is free and can be scheduled with the instructional staff.
+
+## The Twelve Minute Rule
+
+1. Attempt to solve the problem for 12 minutes.
+2. Ask for Help.
+
 
 ## Commitment
 
@@ -43,39 +40,18 @@ Spend some time reviewing and studying up every evening and weekend.
 
 Nobody is perfect, especially when you're starting something new!
 Embrace failure as much as possible, there's a saying "Fail fast, and fail early."
-Online resources will be your savior! (Search for errors or behaviour you want to achieve.)
+Online resources will be your savior! (Search for errors or behavior you want to achieve.)
 __THE 12 MINUTE RULE__ (Don't burn yourself out.)
 Your fellow students and I are always here for feedback and retort.
 
-### Are Precise and Flexible Simultaneously
+### Be Precise and Flexible Simultaneously
 
-Computers are very unforgiving.
+Computers are unforgiving.
 They have a very small set of low-level operations and require you to use them precisely.
 **Cultivate an attention to detail.**
 
-On the other hand, the mid and high-level structure you use to solve your problem is totally self-imposed.
-You need to learn to read other people's structures and come up with ones that fit your problem.
+On the other hand, the mid and high-level structure you use to solve your problem is totally self-imposed.  Learn to read other people's structures and come up with ones that fit your problem.
 
-Every problem you encounter in this software development can be reduced into smaller problems.
-**Notice and practice this skill.
-You will be endlessly frustrated in this course if you don't master it.**
-
-### Never Stop Learning
-
-When you finish this course you will _not_ know everything.
-Top tier software developers do _not_ know everything.
-What they do know is how to teach themselves more based on their experience.
-Practice by teaching others.
-
-Do ask questions, but before doing so, practice looking up answers on your own.
-That is one of the skills this class explicitly teaches.
-I will sometimes direct you to Google instead of answering.
-
-Software developers are **professionals**.
-This is a very lucrative profession **because there are no checklists**.
-Every problem is unique, which means every solution is unique.
-It is more of an art than you might guess.
-
-Realize that the atmosphere in this class **is what the professional environment is like**.
-It will not end when you get a job being a software developer.
-As the course progresses, check in with yourself on it.
+### Thinking Like A Programmer
+Every problem you encounter can be reduced into smaller problems.
+**Notice and practice this skill.**
