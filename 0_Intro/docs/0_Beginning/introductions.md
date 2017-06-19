@@ -1,6 +1,6 @@
 # Introductions
 
-We’ll be learning together for the next 12 weeks. Let’s get to know each other!
+We’ll be learning together for the next 16 weeks. Let’s get to know each other!
 
 1. A bit about your intrepid instructor & teaching assistant
 1. Why our ‘why’¹ is important

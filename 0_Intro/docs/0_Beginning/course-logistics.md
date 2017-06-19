@@ -5,7 +5,7 @@
 This course is 16 weeks or 80 days long.
 Class sessions are every week day.
 
-Each class session is from 6 PM to 9 PM.
+Each class session is from 6 PM to 9:30 PM.
 
 ### Holidays
 

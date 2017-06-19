@@ -17,11 +17,10 @@ Download it as a UTF-8 text file.
 
 1. Open the file and deal with any decoding errror that arise.
 
-1.  Normalize all of the words so differences in capitalization and punctuation attached to words don't affect the counts.
+1. Normalize all of the words so differences in capitalization and punctuation attached to words don't affect the counts.
 
-1.  Count how often each unique word is used, then print the most frequent top 10 out with their counts.
+1. Count how often each unique word is used, then print the most frequent top 10 out with their counts.
 
-1. Count how often each unique pair of words is used, then print the most frequent top 10 out with their counts.
 
 
 
