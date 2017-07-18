@@ -11,5 +11,9 @@
 
 """
 
-
-# Write your code here.
+def shrink(numbers):
+    numbers_sum = str(sum(int(n) for n in numbers))
+    if len(numbers_sum) > 1:
+        return shrink(numbers_sum)
+    else:
+        return int(numbers_sum)
