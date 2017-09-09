@@ -12,7 +12,7 @@ Find the max number in a given list.  Then, change every element in the list con
 [67, 67, 67, 59, 67]
 
 
-Given two lists, return True of the first two items are the equal.
+Given two lists, return True if the first two items are the equal.
 >>> compare_first_element(['migratory', 'birds', 'fly', 'south'], ['migratory', 'monopoloy', 'mind'])
 True
 
