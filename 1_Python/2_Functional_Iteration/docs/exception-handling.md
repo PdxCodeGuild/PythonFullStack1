@@ -9,7 +9,7 @@ Example:
         File "test.py", line 1, in <module>
     TypeError: cannot concatenate 'str' and 'int' objects
 
-Python supports the following 4 types of errors (by default, you can create your own!):
+Python supports the following 5 types of errors (by default, you can create your own!):
 
 * `NameError` — No variable or function known by that name
 * `ValueError` — A value you’re using doesn’t make sense in the context
