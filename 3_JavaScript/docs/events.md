@@ -1,4 +1,4 @@
-# Events
+# Vanilla Events (Without jQuery)
 
 JavaScript events are what allow us to give web pages interactivity. You add events to DOM elements using the `addEventListener` method.
 
